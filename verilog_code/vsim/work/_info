@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/ricardo/PROJECT_HUGO/codigo_hamming/decoder
+vcordic
+Z0 !s110 1563323427
+!i10b 1
+!s100 L4Pl;kca5CmAFjfS;?13e1
+I1a>ET[>S06YZLi4gDM3Tg2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim
+w1555553703
+8/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic.v
+F/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic.v
+L0 40
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1563323427.000000
+!s107 /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcordic_test
+R0
+!i10b 1
+!s100 A[04>bjYAlISJgLM;5IM=2
+IIWUECOJnJeMTL:zX=IeP40
+R1
+R2
+w1555554195
+8/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic_test.v
+F/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic_test.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic_test.v|
+!i113 1
+R5
+R6
+vrom
+R0
+!i10b 1
+!s100 cJX=9AzWUjWE8cUa]:XP^1
+IJn5C?8^fYg>6:be=0=]@i2
+R1
+R2
+w1555554183
+8/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/rom.v
+F/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/rom.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/rom.v|
+!i113 1
+R5
+R6
+vtest_b
+!s110 1563323786
+!i10b 1
+!s100 [nj45;]kO6M]@:T9[f`8e1
+I=OFX<2<?mLb1f2@m]gBe40
+R1
+R2
+w1563323763
+8/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/test_b.v
+F/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/test_b.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1563323786.000000
+!s107 /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/test_b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/test_b.v|
+!i113 1
+R5
+R6

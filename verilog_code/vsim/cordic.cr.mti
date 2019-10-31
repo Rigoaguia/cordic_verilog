@@ -1,0 +1,29 @@
+/home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/rom.v {1 {vlog -work work -stats=none /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/rom.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic_test.v {1 {vlog -work work -stats=none /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cordic_test
+
+Top level modules:
+	cordic_test
+
+} {} {}} /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic.v {1 {vlog -work work -stats=none /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/cordic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cordic
+
+Top level modules:
+	cordic
+
+} {} {}} /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/test_b.v {1 {vlog -work work -stats=none /home/ricardo/Documents/ARTIGOS/CORDIC/PROJETO_CORDIC/arquivos/codigo/vsim/test_b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_b
+
+Top level modules:
+	test_b
+
+} {} {}}

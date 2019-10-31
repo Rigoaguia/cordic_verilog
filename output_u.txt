@@ -1,0 +1,360 @@
+cos 31999 sin     1 ang          0
+cos 31988 sin   562 ang          1
+cos 31974 sin  1120 ang          2
+cos 31949 sin  1676 ang          3
+cos 31916 sin  2234 ang          4
+cos 31871 sin  2792 ang          5
+cos 31819 sin  3346 ang          6
+cos 31756 sin  3902 ang          7
+cos 31681 sin  4455 ang          8
+cos 31600 sin  5005 ang          9
+cos 31508 sin  5556 ang         10
+cos 31407 sin  6105 ang         11
+cos 31294 sin  6655 ang         12
+cos 31176 sin  7197 ang         13
+cos 31043 sin  7741 ang         14
+cos 30906 sin  8280 ang         15
+cos 30754 sin  8821 ang         16
+cos 30598 sin  9352 ang         17
+cos 30431 sin  9885 ang         18
+cos 30251 sin 10416 ang         19
+cos 30062 sin 10945 ang         20
+cos 29868 sin 11466 ang         21
+cos 29661 sin 11987 ang         22
+cos 29453 sin 12498 ang         23
+cos 29230 sin 13011 ang         24
+cos 29000 sin 13519 ang         25
+cos 28757 sin 14028 ang         26
+cos 28508 sin 14525 ang         27
+cos 28251 sin 15020 ang         28
+cos 27984 sin 15514 ang         29
+cos 27708 sin 15999 ang         30
+cos 27424 sin 16480 ang         31
+cos 27136 sin 16955 ang         32
+cos 26831 sin 17429 ang         33
+cos 26525 sin 17889 ang         34
+cos 26208 sin 18352 ang         35
+cos 25886 sin 18804 ang         36
+cos 25550 sin 19258 ang         37
+cos 25212 sin 19697 ang         38
+cos 24864 sin 20136 ang         39
+cos 24508 sin 20564 ang         40
+cos 24146 sin 20991 ang         41
+cos 23776 sin 21411 ang         42
+cos 23401 sin 21817 ang         43
+cos 23016 sin 22223 ang         44
+cos 22623 sin 22622 ang         45
+cos 22223 sin 23016 ang         46
+cos 21817 sin 23401 ang         47
+cos 21411 sin 23776 ang         48
+cos 20991 sin 24146 ang         49
+cos 20564 sin 24508 ang         50
+cos 20136 sin 24864 ang         51
+cos 19697 sin 25212 ang         52
+cos 19258 sin 25550 ang         53
+cos 18804 sin 25886 ang         54
+cos 18352 sin 26208 ang         55
+cos 17889 sin 26525 ang         56
+cos 17429 sin 26831 ang         57
+cos 16955 sin 27136 ang         58
+cos 16480 sin 27424 ang         59
+cos 15999 sin 27708 ang         60
+cos 15514 sin 27984 ang         61
+cos 15020 sin 28251 ang         62
+cos 14525 sin 28508 ang         63
+cos 14028 sin 28757 ang         64
+cos 13519 sin 29000 ang         65
+cos 13011 sin 29230 ang         66
+cos 12498 sin 29453 ang         67
+cos 11987 sin 29661 ang         68
+cos 11466 sin 29868 ang         69
+cos 10945 sin 30062 ang         70
+cos 10416 sin 30251 ang         71
+cos  9885 sin 30431 ang         72
+cos  9352 sin 30598 ang         73
+cos  8821 sin 30754 ang         74
+cos  8280 sin 30906 ang         75
+cos  7741 sin 31043 ang         76
+cos  7197 sin 31176 ang         77
+cos  6655 sin 31294 ang         78
+cos  6105 sin 31407 ang         79
+cos  5556 sin 31508 ang         80
+cos  5005 sin 31600 ang         81
+cos  4455 sin 31681 ang         82
+cos  3902 sin 31756 ang         83
+cos  3346 sin 31819 ang         84
+cos  2792 sin 31871 ang         85
+cos  2234 sin 31916 ang         86
+cos  1676 sin 31949 ang         87
+cos  1120 sin 31974 ang         88
+cos   562 sin 31988 ang         89
+cos     2 sin 31994 ang         90
+cos  -561 sin 31992 ang         91
+cos -1119 sin 31978 ang         92
+cos -1675 sin 31949 ang         93
+cos -2233 sin 31918 ang         94
+cos -2791 sin 31875 ang         95
+cos -3345 sin 31821 ang         96
+cos -3901 sin 31758 ang         97
+cos -4454 sin 31685 ang         98
+cos -5004 sin 31602 ang         99
+cos -5555 sin 31510 ang        100
+cos -6104 sin 31407 ang        101
+cos -6654 sin 31300 ang        102
+cos -7196 sin 31176 ang        103
+cos -7740 sin 31045 ang        104
+cos -8279 sin 30904 ang        105
+cos -8820 sin 30760 ang        106
+cos -9352 sin 30596 ang        107
+cos -9883 sin 30427 ang        108
+cos-10417 sin 30253 ang        109
+cos-10946 sin 30070 ang        110
+cos-11467 sin 29872 ang        111
+cos-11988 sin 29669 ang        112
+cos-12499 sin 29451 ang        113
+cos-13012 sin 29228 ang        114
+cos-13520 sin 28998 ang        115
+cos-14029 sin 28757 ang        116
+cos-14526 sin 28506 ang        117
+cos-15021 sin 28249 ang        118
+cos-15515 sin 27986 ang        119
+cos-16000 sin 27708 ang        120
+cos-16481 sin 27424 ang        121
+cos-16956 sin 27134 ang        122
+cos-17430 sin 26837 ang        123
+cos-17890 sin 26521 ang        124
+cos-18353 sin 26206 ang        125
+cos-18805 sin 25880 ang        126
+cos-19259 sin 25552 ang        127
+cos-19698 sin 25210 ang        128
+cos-20137 sin 24862 ang        129
+cos-20566 sin 24508 ang        130
+cos-20992 sin 24146 ang        131
+cos-21412 sin 23776 ang        132
+cos-21818 sin 23395 ang        133
+cos-22224 sin 23012 ang        134
+cos-22623 sin 22623 ang        135
+cos-23016 sin 22227 ang        136
+cos-23401 sin 21823 ang        137
+cos-23776 sin 21411 ang        138
+cos-24146 sin 20991 ang        139
+cos-24508 sin 20564 ang        140
+cos-24864 sin 20138 ang        141
+cos-25212 sin 19699 ang        142
+cos-25550 sin 19256 ang        143
+cos-25886 sin 18810 ang        144
+cos-26208 sin 18354 ang        145
+cos-26525 sin 17893 ang        146
+cos-26831 sin 17423 ang        147
+cos-27135 sin 16957 ang        148
+cos-27425 sin 16480 ang        149
+cos-27708 sin 15999 ang        150
+cos-27984 sin 15512 ang        151
+cos-28251 sin 15022 ang        152
+cos-28508 sin 14527 ang        153
+cos-28757 sin 14028 ang        154
+cos-29000 sin 13521 ang        155
+cos-29230 sin 13013 ang        156
+cos-29453 sin 12500 ang        157
+cos-29661 sin 11979 ang        158
+cos-29868 sin 11462 ang        159
+cos-30062 sin 10937 ang        160
+cos-30251 sin 10414 ang        161
+cos-30431 sin  9889 ang        162
+cos-30598 sin  9354 ang        163
+cos-30754 sin  8815 ang        164
+cos-30906 sin  8282 ang        165
+cos-31043 sin  7739 ang        166
+cos-31176 sin  7197 ang        167
+cos-31294 sin  6649 ang        168
+cos-31407 sin  6105 ang        169
+cos-31508 sin  5554 ang        170
+cos-31600 sin  5003 ang        171
+cos-31681 sin  4451 ang        172
+cos-31756 sin  3900 ang        173
+cos-31819 sin  3344 ang        174
+cos-31871 sin  2788 ang        175
+cos-31916 sin  2232 ang        176
+cos-31949 sin  1676 ang        177
+cos-31974 sin  1116 ang        178
+cos-31988 sin   558 ang        179
+cos-31994 sin     2 ang        180
+cos-31988 sin  -562 ang        181
+cos-31974 sin -1120 ang        182
+cos-31949 sin -1676 ang        183
+cos-31916 sin -2234 ang        184
+cos-31871 sin -2792 ang        185
+cos-31819 sin -3346 ang        186
+cos-31756 sin -3902 ang        187
+cos-31681 sin -4455 ang        188
+cos-31600 sin -5005 ang        189
+cos-31508 sin -5556 ang        190
+cos-31407 sin -6105 ang        191
+cos-31294 sin -6655 ang        192
+cos-31176 sin -7197 ang        193
+cos-31043 sin -7741 ang        194
+cos-30906 sin -8280 ang        195
+cos-30754 sin -8821 ang        196
+cos-30598 sin -9352 ang        197
+cos-30431 sin -9885 ang        198
+cos-30251 sin-10416 ang        199
+cos-30062 sin-10945 ang        200
+cos-29868 sin-11466 ang        201
+cos-29661 sin-11987 ang        202
+cos-29453 sin-12498 ang        203
+cos-29230 sin-13011 ang        204
+cos-29000 sin-13519 ang        205
+cos-28757 sin-14028 ang        206
+cos-28508 sin-14525 ang        207
+cos-28251 sin-15020 ang        208
+cos-27984 sin-15514 ang        209
+cos-27708 sin-15999 ang        210
+cos-27424 sin-16480 ang        211
+cos-27136 sin-16955 ang        212
+cos-26831 sin-17429 ang        213
+cos-26525 sin-17889 ang        214
+cos-26208 sin-18352 ang        215
+cos-25886 sin-18804 ang        216
+cos-25550 sin-19258 ang        217
+cos-25212 sin-19697 ang        218
+cos-24864 sin-20136 ang        219
+cos-24508 sin-20564 ang        220
+cos-24146 sin-20991 ang        221
+cos-23776 sin-21411 ang        222
+cos-23401 sin-21817 ang        223
+cos-23016 sin-22223 ang        224
+cos-22623 sin-22622 ang        225
+cos-22223 sin-23016 ang        226
+cos-21817 sin-23401 ang        227
+cos-21411 sin-23776 ang        228
+cos-20991 sin-24146 ang        229
+cos-20564 sin-24508 ang        230
+cos-20136 sin-24864 ang        231
+cos-19697 sin-25212 ang        232
+cos-19258 sin-25550 ang        233
+cos-18804 sin-25886 ang        234
+cos-18352 sin-26208 ang        235
+cos-17889 sin-26525 ang        236
+cos-17429 sin-26831 ang        237
+cos-16955 sin-27136 ang        238
+cos-16480 sin-27424 ang        239
+cos-15999 sin-27708 ang        240
+cos-15514 sin-27984 ang        241
+cos-15020 sin-28251 ang        242
+cos-14525 sin-28508 ang        243
+cos-14028 sin-28757 ang        244
+cos-13519 sin-29000 ang        245
+cos-13011 sin-29230 ang        246
+cos-12498 sin-29453 ang        247
+cos-11987 sin-29661 ang        248
+cos-11466 sin-29868 ang        249
+cos-10945 sin-30062 ang        250
+cos-10416 sin-30251 ang        251
+cos -9885 sin-30431 ang        252
+cos -9352 sin-30598 ang        253
+cos -8821 sin-30754 ang        254
+cos -8280 sin-30906 ang        255
+cos -7741 sin-31043 ang        256
+cos -7197 sin-31176 ang        257
+cos -6655 sin-31294 ang        258
+cos -6105 sin-31407 ang        259
+cos -5556 sin-31508 ang        260
+cos -5005 sin-31600 ang        261
+cos -4455 sin-31681 ang        262
+cos -3902 sin-31756 ang        263
+cos -3346 sin-31819 ang        264
+cos -2792 sin-31871 ang        265
+cos -2234 sin-31916 ang        266
+cos -1676 sin-31949 ang        267
+cos -1120 sin-31974 ang        268
+cos  -562 sin-31988 ang        269
+cos     2 sin-31995 ang        270
+cos   558 sin-31988 ang        271
+cos  1116 sin-31974 ang        272
+cos  1676 sin-31949 ang        273
+cos  2232 sin-31916 ang        274
+cos  2788 sin-31871 ang        275
+cos  3344 sin-31819 ang        276
+cos  3900 sin-31756 ang        277
+cos  4451 sin-31681 ang        278
+cos  5003 sin-31600 ang        279
+cos  5554 sin-31508 ang        280
+cos  6105 sin-31407 ang        281
+cos  6649 sin-31294 ang        282
+cos  7197 sin-31176 ang        283
+cos  7739 sin-31043 ang        284
+cos  8282 sin-30906 ang        285
+cos  8815 sin-30754 ang        286
+cos  9354 sin-30598 ang        287
+cos  9889 sin-30431 ang        288
+cos 10414 sin-30251 ang        289
+cos 10937 sin-30062 ang        290
+cos 11462 sin-29868 ang        291
+cos 11979 sin-29661 ang        292
+cos 12500 sin-29453 ang        293
+cos 13013 sin-29230 ang        294
+cos 13521 sin-29000 ang        295
+cos 14028 sin-28757 ang        296
+cos 14527 sin-28508 ang        297
+cos 15022 sin-28251 ang        298
+cos 15512 sin-27984 ang        299
+cos 15999 sin-27708 ang        300
+cos 16480 sin-27425 ang        301
+cos 16957 sin-27135 ang        302
+cos 17423 sin-26831 ang        303
+cos 17893 sin-26525 ang        304
+cos 18354 sin-26208 ang        305
+cos 18810 sin-25886 ang        306
+cos 19256 sin-25550 ang        307
+cos 19699 sin-25212 ang        308
+cos 20138 sin-24864 ang        309
+cos 20564 sin-24508 ang        310
+cos 20991 sin-24146 ang        311
+cos 21411 sin-23776 ang        312
+cos 21823 sin-23401 ang        313
+cos 22227 sin-23016 ang        314
+cos 22622 sin-22624 ang        315
+cos 23012 sin-22224 ang        316
+cos 23395 sin-21818 ang        317
+cos 23776 sin-21412 ang        318
+cos 24146 sin-20992 ang        319
+cos 24508 sin-20566 ang        320
+cos 24862 sin-20137 ang        321
+cos 25210 sin-19698 ang        322
+cos 25552 sin-19259 ang        323
+cos 25880 sin-18805 ang        324
+cos 26206 sin-18353 ang        325
+cos 26521 sin-17890 ang        326
+cos 26837 sin-17430 ang        327
+cos 27134 sin-16956 ang        328
+cos 27424 sin-16481 ang        329
+cos 27708 sin-16000 ang        330
+cos 27986 sin-15515 ang        331
+cos 28249 sin-15021 ang        332
+cos 28506 sin-14526 ang        333
+cos 28757 sin-14029 ang        334
+cos 28998 sin-13520 ang        335
+cos 29228 sin-13012 ang        336
+cos 29451 sin-12499 ang        337
+cos 29669 sin-11988 ang        338
+cos 29872 sin-11467 ang        339
+cos 30070 sin-10946 ang        340
+cos 30253 sin-10417 ang        341
+cos 30427 sin -9883 ang        342
+cos 30596 sin -9352 ang        343
+cos 30760 sin -8820 ang        344
+cos 30904 sin -8279 ang        345
+cos 31045 sin -7740 ang        346
+cos 31176 sin -7196 ang        347
+cos 31300 sin -6654 ang        348
+cos 31407 sin -6104 ang        349
+cos 31510 sin -5555 ang        350
+cos 31602 sin -5004 ang        351
+cos 31685 sin -4454 ang        352
+cos 31758 sin -3901 ang        353
+cos 31821 sin -3345 ang        354
+cos 31875 sin -2791 ang        355
+cos 31918 sin -2233 ang        356
+cos 31949 sin -1675 ang        357
+cos 31978 sin -1119 ang        358
+cos 31992 sin  -561 ang        359
